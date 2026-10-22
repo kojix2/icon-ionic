@@ -1,0 +1,8 @@
+24_filled
+24_logos
+24_outline
+24_sharp
+32_filled
+32_logos
+32_outline
+32_sharp
